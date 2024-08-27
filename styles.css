@@ -1,0 +1,125 @@
+*{
+    padding: 0;
+    margin: 0;
+    border: 0;
+}
+
+
+/*SELECTION BOX*/
+.intro-box{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #56baed;
+    text-align: center;
+    display: none;
+}
+
+.grid-container1{
+  display:grid;
+  background-color: white;
+  border-radius: 10px;
+  height: 25%;
+  width: 25%;
+  padding: 0 30px;
+}
+
+.intro-box button{
+    background-color:#56baed ;
+    color: white;
+    height: 40px;
+    width: 120px;
+    border-radius: 10px;
+    margin-right: 10px;
+}
+/*SETTING UP THE LAYOUT*/
+.BIG-BOX{
+    /*display: none;*/
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #56baed;
+}
+
+.BIG-BOX .fistrow{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+
+.BIG-BOX h3{
+    color:white;
+}
+
+.BIG-BOX .box1{
+    height: 50px;
+    width: 50px;
+    margin: 5px;
+    border-radius: 5px;
+    background-color: white;
+}
+
+.BIG-BOX .box2{
+    height: 50px;
+    width: 50px;
+    margin: 5px;
+    border-radius: 5px;
+    background-color: white;
+}
+
+.BIG-BOX .box3{
+    height: 50px;
+    width: 50px;
+    margin: 5px;
+    border-radius: 5px;
+    background-color: white;
+}
+
+.BIG-BOX .box4{
+    height: 50px;
+    width: 50px;
+    margin: 5px;
+    border-radius: 5px;
+    background-color: white;
+}
+
+.BIG-BOX .box5{
+    height: 50px;
+    width: 50px;
+    margin: 5px;
+    border-radius: 5px;
+    background-color: white;
+}
+
+.BIG-BOX .box6{
+    height: 50px;
+    width: 50px;
+    margin: 5px;
+    border-radius: 5px;
+    background-color: white;
+}
+
+.BIG-BOX .box7{
+    height: 50px;
+    width: 50px;
+    margin: 5px;
+    border-radius: 5px;
+    background-color: white;
+}
+
+.BIG-BOX .box8{
+    height: 50px;
+    width: 50px;
+    margin: 5px;
+    border-radius: 5px;
+    background-color: white;
+}
+
+.BIG-BOX .box9{
+    height: 50px;
+    width: 50px;
+    margin: 5px;
+    border-radius: 5px;
+    background-color: white;
+}
